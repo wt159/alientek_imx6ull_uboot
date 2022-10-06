@@ -342,7 +342,7 @@
 #define CONFIG_ETHPRIME			"FEC"
 
 #define CONFIG_PHYLIB
-#define CONFIG_PHY_MICREL
+#define CONFIG_PHY_REALTEK
 #endif
 
 #define CONFIG_IMX_THERMAL
